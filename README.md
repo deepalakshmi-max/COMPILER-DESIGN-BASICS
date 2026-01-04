@@ -14,3 +14,4 @@ MENTOR: NEELA SANTOSH
 
 OUTPUT:
 
+<img width="817" height="590" alt="Image" src="https://github.com/user-attachments/assets/c39c422a-a633-46d3-b9aa-aa8bd62cdd1c" />
